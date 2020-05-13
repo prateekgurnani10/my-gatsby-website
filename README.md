@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-ww<<<<<<< HEAD
-
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
 ## A clean, beautiful and responsive portfolio template for Developers
@@ -267,9 +264,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 # I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
-
-# my-gatsby-website
-
-My portfolio website
-
-> > > > > > > 1195efd3997ac18c6cb8411ca4e91141ddf22be1
